@@ -1,0 +1,20 @@
+# Lead me to your Pihole
+#
+#
+# Domains die man besser nicht aufrufen sollte.
+#
+#
+0.0.0.0 www.freudebote.de 
+0.0.0.0 www.poponuss.de 
+0.0.0.0 www.saltdays.de 
+0.0.0.0 www.hallohaus.co 
+0.0.0.0 www.megahause.de 
+0.0.0.0 www.rheinadler.com 
+0.0.0.0 weltbasar.com 
+0.0.0.0 www.genialbau.com 
+0.0.0.0 hallogadgets.com 
+0.0.0.0 www.rosaflamin.com 
+0.0.0.0 www.metblume.de 
+0.0.0.0 www.popularm.de 
+0.0.0.0 spargut.com 
+0.0.0.0 maximogadgets.com 
